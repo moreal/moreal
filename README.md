@@ -1,3 +1,4 @@
-# Moreal
+# 🧒I'm Moreal,
 
-A simple introduction of *Moreal*.
+- 💻 Working on @planetarium,
+- 😘 Loving languages supported modern type system,
