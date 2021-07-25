@@ -1,11 +1,21 @@
-# 🧒I'm Moreal,
+# 🧒I'm Moreal, Open Source Engineer,
 
 - 💻 Working on [@planetarium],
-- 😘 Loving languages supported modern type system like [Haskell],
+- 😉 Believing power of open source,
+- 🌍 Do things to build better society,
+- 📚 Interested in [Kubernetes], [Blockchain],
+- 😘 Loving programming languages supported modern type system like [Haskell], [TypeScript], [Rust],
+- 🥰 Loving functional programming languages like [Haskell], [Scala],
 
 [@planetarium]: https://github.com/planetarium
+[Kubernetes]: https://kubernetes.io/
+[Blockchain]: https://en.wikipedia.org/wiki/Blockchain
 [Haskell]: https://www.haskell.org
+[Rust]: https://www.rust-lang.org/
+[TypeScript]: https://www.typescriptlang.org/
+[Scala]: https://www.scala-lang.org/
 
-## GitHub stats
+## Contacts
 
-[![Moreal's github stats](https://github-readme-stats.vercel.app/api?username=moreal&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+- Twitter: [@dev_moreal](https://twitter.com/dev_moreal)
+- Linkedin: linkedin.com/in/devmoreal/
