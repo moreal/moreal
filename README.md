@@ -1,4 +1,4 @@
-## 🧒I'm Moreal, Open Source Engineer,
+## 🧒 I'm Moreal, Open Source Engineer,
 
 - 💻 Working on [@planetarium],
 - 😉 Believing power of open source,
