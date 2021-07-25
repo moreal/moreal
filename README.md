@@ -17,5 +17,8 @@
 
 ## Contacts
 
-- Twitter: [@dev_moreal](https://twitter.com/dev_moreal)
-- Linkedin: linkedin.com/in/devmoreal/
+- Twitter: [@dev_moreal][twitter-dev_moreal]
+- Linkedin: [devmoreal][linkedin-devmoreal]
+
+[twitter-dev_moreal]: https://twitter.com/dev_moreal
+[linkedin-devmoreal]: https://www.linkedin.com/in/devmoreal/
