@@ -2,11 +2,9 @@
 
 - 💻 Working on [@planetarium],
   - 😺 Building Nine Chronicles, full on-chain game.
-- 😉 Believing power of open source,
 - 🌍 Want to do things to build better society,
-- 📚 Interested in [Kubernetes], [Blockchain],
+- 📚 Interested in [Kubernetes], Database,
 - 😘 Loving programming languages supported modern type system like [Haskell], [TypeScript], [Rust],
-- 🥰 Loving functional programming languages like [Haskell].
 
 [@planetarium]: https://github.com/planetarium
 [Kubernetes]: https://kubernetes.io/
